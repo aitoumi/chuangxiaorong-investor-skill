@@ -9,7 +9,7 @@ description: |
 
 通过创小融 Open API 为投资人提供项目发现、分析和联系能力。
 
-**Base URL**: `https://api.aitoumi.com/api/v1`
+**Base URL**: `https://api.aitoumi.com/v1`
 
 ## 认证
 
