@@ -16,15 +16,15 @@
 
 访问 [创小融投资端](https://chat.aitoumi.com/invest-login) 登录后，点击**左下角"我的"**，在弹出菜单中选择 **"API Key"**。
 
-![步骤1 - 点击"我的"进入 API Key 管理](assets/me.png)
+![步骤1 - 点击"我的"进入 API Key 管理](https://pan.yixin.com/s/Avfo3_UpDgUMi/origin.me.png)
 
 ---
 
 **② 创建新的 API Key**
 
-进入 API Key 管理页后，点击 **"创建 API Key"** 按钮，在弹窗中输入一个便于识别的��称（例如 `OpenClaw`），然后点击确认。
+进入 API Key 管理页后，点击 **"创建 API Key"** 按钮，在弹窗中输入一个便于识别的名称（例如 `OpenClaw`），然后点击确认。
 
-![步骤2 - 点击"创建 API Key"](assets/create-apikey.png)
+![步骤2 - 点击"创建 API Key"](https://pan.yixin.com/s/B0v03UpDg.K03/origin.create-apikey.png)
 
 ---
 
@@ -32,7 +32,7 @@
 
 Key 生成后会立即显示在弹窗中（格式为 `zr-xxxxxxxx...`），点击 **"复制"** 并妥善保存到安全的地方。
 
-![步骤3 - 复制 API Key](assets/copy-apikey.png)
+![步骤3 - 复制 API Key](https://pan.yixin.com/s/CqFJqUtD.gO25/origin.copy-apikey.png)
 
 ---
 
