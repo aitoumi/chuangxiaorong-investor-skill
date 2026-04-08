@@ -47,7 +47,7 @@ Authorization: Bearer zr-your-api-key-here
 ### 第三步：确认 Base URL
 
 ```
-https://api.aitoumi.com/api/v1
+https://api.aitoumi.com/v1
 ```
 
 ## API 接口
